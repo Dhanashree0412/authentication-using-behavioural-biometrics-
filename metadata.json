@@ -1,0 +1,6 @@
+{
+  "name": "Continuous Authentication Using Behavioural Biometrics",
+  "description": "An intermediate-level cybersecurity application that continuously verifies authenticated user identity using keystroke dynamics and mouse behavioural biometrics with statistical anomaly detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
